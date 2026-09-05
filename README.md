@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.png" alt="Sinergi Conversor" width="150" />
+
 # Sinergi Conversor
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
