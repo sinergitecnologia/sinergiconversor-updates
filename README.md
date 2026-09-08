@@ -99,7 +99,7 @@ Em caso de dúvidas sobre instalação, atualização ou utilização do aplicat
 
 <div align="center">
 
-**Sinergitech Tecnologia**  
+**Sinergi | Software e Serviços de Gestão**  
 
 *Sinergi Conversor — distribuição oficial para Windows*
 
