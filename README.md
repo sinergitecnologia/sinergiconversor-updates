@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.22-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.24-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/github/v/release/sinergitecnologia/sinergiconversor-updates?style=for-the-badge&label=Release)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.22**
+**Versão estável atual: v1.0.24**
 
 </div>
 
@@ -58,7 +58,7 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.22
+### Sinergi Conversor v1.0.24
 
 Principais melhorias:
 
@@ -106,6 +106,7 @@ Em caso de dúvidas sobre instalação, atualização ou utilização do aplicat
 [Última versão](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest) • [Histórico de versões](https://github.com/sinergitecnologia/sinergiconversor-updates/releases)
 
 </div>
+
 
 
 
