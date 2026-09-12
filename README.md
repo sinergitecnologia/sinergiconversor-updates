@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.24-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.29-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/github/v/release/sinergitecnologia/sinergiconversor-updates?style=for-the-badge&label=Release)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.24**
+**Versão estável atual: v1.0.29**
 
 </div>
 
@@ -58,17 +58,19 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.24
+### Sinergi Conversor v1.0.29
 
 Principais melhorias:
 
-- notificação automática quando existe uma versão superior;
+- versão oficial estável e homologada para produção;
+- Dashboard Pro integrado ao pacote de distribuição;
+- correções no fluxo de atualização automática;
 - atualização através do canal oficial da organização Sinergitech Tecnologia;
 - download de atualização em pasta dedicada;
 - prevenção de conflito com instaladores temporários em execução;
 - validação do download antes de iniciar a instalação;
 - correção da verificação para nunca oferecer novamente a versão já instalada;
-- testes automatizados de regressão antes da publicação das novas versões.
+- pacote de instalação revisado e validado em ambiente cliente.
 
 ## Requisitos
 
@@ -106,12 +108,3 @@ Em caso de dúvidas sobre instalação, atualização ou utilização do aplicat
 [Última versão](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest) • [Histórico de versões](https://github.com/sinergitecnologia/sinergiconversor-updates/releases)
 
 </div>
-
-
-
-
-
-
-
-
-
