@@ -8,7 +8,7 @@
 
 [![Versão](https://img.shields.io/badge/versão-v1.0.34-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
-[![Release](https://img.shields.io/github/v/release/sinergitecnologia/sinergiconversor-updates?style=for-the-badge&label=Release)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
