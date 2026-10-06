@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.34-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.35-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.34**
+**Versão estável atual: v1.0.35**
 
 </div>
 
@@ -58,19 +58,24 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.34
+### Sinergi Conversor v1.0.35
 
 Principais melhorias:
 
 - versão oficial estável e homologada para produção;
+- correção do fluxo da interface para utilizar o parser atualizado no processamento das folhas;
+- correção da identificação de todos os grupos/lojas no novo formato de FOPAG;
+- homologação com FOPAG setembro/2026: **14 grupos identificados**;
+- geração validada de **14 arquivos XLSX + 14 arquivos TXT**;
+- processamento validado com **0 pendências/avisos**;
+- regressão do formato anterior aprovada;
 - Dashboard Pro integrado ao pacote de distribuição;
-- correções no fluxo de atualização automática;
 - atualização através do canal oficial da organização Sinergitech Tecnologia;
-- download de atualização em pasta dedicada;
-- prevenção de conflito com instaladores temporários em execução;
-- validação do download antes de iniciar a instalação;
-- correção da verificação para nunca oferecer novamente a versão já instalada;
-- pacote de instalação revisado e validado em ambiente cliente.
+- instalador público validado por integridade SHA-256.
+
+### Integridade do instalador v1.0.35
+
+`SHA-256: 9EE0F06572981DAC592DFA1D5818840FE813B13A1313CB0B5EEDB82AED6CE8CD`
 
 ## Requisitos
 
@@ -108,7 +113,3 @@ Em caso de dúvidas sobre instalação, atualização ou utilização do aplicat
 [Última versão](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest) • [Histórico de versões](https://github.com/sinergitecnologia/sinergiconversor-updates/releases)
 
 </div>
-
-
-
-
