@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.36-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.37-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.36**
+**Versão estável atual: v1.0.37**
 
 </div>
 
@@ -58,11 +58,14 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.36
+### Sinergi Conversor v1.0.37
 
 Principais melhorias:
 
 - versão oficial estável e homologada para produção;
+- distribuição pública corretiva baseada no binário funcional homologado da v1.0.36;
+- geração automática de `RUBRICAS_PENDENTES_<competência>.xlsx` para rubricas ainda não classificadas no DE/PARA;
+- novas rubricas podem ser tratadas pelo DE/PARA sem atualização do aplicativo quando o layout da FOPAG permanece compatível;
 - correção do fluxo da interface para utilizar o parser atualizado no processamento das folhas;
 - correção da identificação de todos os grupos/lojas no novo formato de FOPAG;
 - homologação com FOPAG setembro/2026: **14 grupos identificados**;
@@ -73,9 +76,9 @@ Principais melhorias:
 - atualização através do canal oficial da organização Sinergitech Tecnologia;
 - instalador público validado por integridade SHA-256.
 
-### Integridade do instalador v1.0.35
+### Integridade do instalador v1.0.37
 
-`SHA-256: 9EE0F06572981DAC592DFA1D5818840FE813B13A1313CB0B5EEDB82AED6CE8CD`
+`SHA-256: 8D2274FCF29BB0ED5318A881E14AD1F56455B7B183DC8F083E1AF2CADC6C6250`
 
 ## Requisitos
 
