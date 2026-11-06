@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.37-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.38-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.37**
+**Versão estável atual: v1.0.38**
 
 </div>
 
@@ -58,25 +58,26 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.37
+### Sinergi Conversor v1.0.38
 
-Principais melhorias:
+Atualização corretiva oficial, homologada para Windows:
 
-- versão oficial estável e homologada para produção;
-- distribuição pública corretiva baseada no binário funcional homologado da v1.0.36;
-- geração automática de `RUBRICAS_PENDENTES_<competência>.xlsx` para rubricas ainda não classificadas no DE/PARA;
-- novas rubricas podem ser tratadas pelo DE/PARA sem atualização do aplicativo quando o layout da FOPAG permanece compatível;
-- correção do fluxo da interface para utilizar o parser atualizado no processamento das folhas;
-- correção da identificação de todos os grupos/lojas no novo formato de FOPAG;
-- homologação com FOPAG setembro/2026: **14 grupos identificados**;
-- geração validada de **14 arquivos XLSX + 14 arquivos TXT**;
-- processamento validado com **0 pendências/avisos**;
-- regressão do formato anterior aprovada;
-- Dashboard Pro integrado ao pacote de distribuição;
-- atualização através do canal oficial da organização Sinergitech Tecnologia;
-- instalador público validado por integridade SHA-256.
+- corrigida a divergência entre a versão publicada e a versão identificada pelo aplicativo instalado;
+- sincronizados os metadados de versão do executável e do instalador;
+- corrigido o aviso recorrente de atualização para a v1.0.37;
+- preservados o licenciamento PRO, o Dashboard Pro e as configurações DE/PARA por CNPJ;
+- homologadas as conversões PDF para Excel e TXT MicroWork Layout 6.03;
+- instalador publicado e verificado no canal oficial.
 
-### Integridade do instalador v1.0.37
+### Integridade do instalador v1.0.38
+
+`Sinergi_Conversor_Setup_v1.0.38.exe`
+
+`SHA-256: 75F7E74D40C1E830F994CB824AFF5A18EE1F672BC6728629707FF26CB814184E`
+
+### Versão anterior — v1.0.37
+
+A v1.0.37 permanece disponível no [histórico de releases](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/tag/v1.0.37), com seu instalador original preservado.
 
 `SHA-256: 8D2274FCF29BB0ED5318A881E14AD1F56455B7B183DC8F083E1AF2CADC6C6250`
 
