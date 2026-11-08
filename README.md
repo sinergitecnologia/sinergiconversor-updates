@@ -6,13 +6,13 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.38-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/versão-v1.0.39-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
-**Versão estável atual: v1.0.38**
+**Versão estável atual: v1.0.39**
 
 </div>
 
@@ -58,28 +58,28 @@ A partir da linha **v1.0.10/v1.0.11**, o atualizador utiliza uma pasta dedicada 
 
 ## Versão estável
 
-### Sinergi Conversor v1.0.38
+### Sinergi Conversor v1.0.39
 
-Atualização corretiva oficial, homologada para Windows:
+Atualização oficial de produção, com o catálogo persistente de rubricas:
 
-- corrigida a divergência entre a versão publicada e a versão identificada pelo aplicativo instalado;
-- sincronizados os metadados de versão do executável e do instalador;
-- corrigido o aviso recorrente de atualização para a v1.0.37;
-- preservados o licenciamento PRO, o Dashboard Pro e as configurações DE/PARA por CNPJ;
-- homologadas as conversões PDF para Excel e TXT MicroWork Layout 6.03;
-- instalador publicado e verificado no canal oficial.
+- classificação contábil aprovada e armazenada por CNPJ, tipo e contexto da folha;
+- consulta, pesquisa e revisão de classificações aprovadas;
+- exclusão supervisionada com registro de auditoria;
+- apresentação ajustada das colunas e controles de consulta;
+- instalador Windows e Dashboard Pro gerados no fluxo de release;
+- SHA-256 e tamanho do instalador conferidos com o asset da release.
 
-### Integridade do instalador v1.0.38
+### Integridade do instalador v1.0.39
 
-`Sinergi_Conversor_Setup_v1.0.38.exe`
+`Sinergi_Conversor_Setup_v1.0.39.exe`
+
+`SHA-256: 2F3DE4B6D8EADFBFDE75DAD3E3D3D0B67B92D416C49601E6CC86276610502FC8`
+
+### Versão anterior — v1.0.38
+
+A v1.0.38 permanece disponível no [histórico de releases](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/tag/v1.0.38), com seu instalador original preservado.
 
 `SHA-256: 75F7E74D40C1E830F994CB824AFF5A18EE1F672BC6728629707FF26CB814184E`
-
-### Versão anterior — v1.0.37
-
-A v1.0.37 permanece disponível no [histórico de releases](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/tag/v1.0.37), com seu instalador original preservado.
-
-`SHA-256: 8D2274FCF29BB0ED5318A881E14AD1F56455B7B183DC8F083E1AF2CADC6C6250`
 
 ## Requisitos
 
