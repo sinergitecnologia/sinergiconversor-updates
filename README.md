@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./logo.png" alt="Logo Sinergi Conversor" width="150" />
+
 # Sinergi Conversor
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![Versão](https://img.shields.io/badge/versão-v1.0.40-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão](https://img.shields.io/badge/Versao-v1.0.40-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 [![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
