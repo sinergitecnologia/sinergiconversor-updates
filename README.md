@@ -6,9 +6,7 @@
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
 
-[![VERSAO v1.0.40](https://img.shields.io/badge/VERSAO-v1.0.40-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
-[![Release](https://img.shields.io/badge/Release-STABLE-brightgreen?style=for-the-badge)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
+[![Versão v1.0.40, Windows 10 e 11, Release estável](./assets/status-v1.0.40.svg)](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
 ## ⬇️ [BAIXAR SINERGI CONVERSOR PARA WINDOWS](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/latest)
 
