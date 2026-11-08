@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./logo.png" alt="Sinergi Conversor" width="150" />
-
 # Sinergi Conversor
 
 ### Conversão e processamento de arquivos para integração de dados no Windows
@@ -69,11 +67,13 @@ Atualização oficial de produção, com o catálogo persistente de rubricas:
 - instalador Windows e Dashboard Pro gerados no fluxo de release;
 - SHA-256 e tamanho do instalador conferidos com o asset da release.
 
-### Integridade do instalador v1.0.39
+### Integridade do instalador v1.0.40
 
-`Sinergi_Conversor_Setup_v1.0.39.exe`
+`Sinergi_Conversor_Setup_v1.0.40.exe`
 
-`SHA-256: 2F3DE4B6D8EADFBFDE75DAD3E3D3D0B67B92D416C49601E6CC86276610502FC8`
+`SHA-256: DCD7441CADA9513A2BBDB9CBFAC680D97BC99028B0950615A99B1F61F1F7C05B`
+
+[Baixar instalador v1.0.40](https://github.com/sinergitecnologia/sinergiconversor-updates/releases/download/v1.0.40/Sinergi_Conversor_Setup_v1.0.40.exe)
 
 ### Versão anterior — v1.0.38
 
